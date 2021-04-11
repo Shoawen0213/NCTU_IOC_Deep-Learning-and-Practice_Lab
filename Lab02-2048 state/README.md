@@ -12,6 +12,8 @@
 | 2048_state_ver4.cpp           | 加上自動改名存model code    | 91.4%               |
 | 2048_state_ver5.cpp           | 加上六組3-tuple             | 96.0%               |
 | 2048_state_ver6.cpp           | 跑了200K episode            | 95.9%               |
+| plot_score.ipynb              | 繪圖                        | X               |
+| save_score&model_note.cpp     | X                          | X               |
 
 ## Reference Paper Folder
 
