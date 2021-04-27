@@ -1,6 +1,6 @@
 # NCTU DLP Lab03 EEG classification
 
-##Data description
+## Data description
 
 | File NAME                                | decription                  |
 | -----------------------------------------|:---------------------------:|
