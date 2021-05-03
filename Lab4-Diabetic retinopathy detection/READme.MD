@@ -4,7 +4,8 @@
 
 | File NAME                                              | decription                  |
 | -------------------------------------------------------|:---------------------------:|
-| Lab04_Lab4-Diabetic retinopathy detection_Submit.ipynb | 上傳版本，最高到83%         |
+| Lab04_Lab4-Diabetic retinopathy detection_Submit.ipynb |          |
+| Lab04_Lab4-Diabetic retinopathy detection_Submit.ipynb | 有跑結果圖，但有一個地方沒跑到，小改一下就好         |
 | dataloader.py                                          |                             |
 | img 檔                                                 |csv from TA                  |
 
