@@ -5,7 +5,8 @@
 | File NAME                                              | decription                  |
 | -------------------------------------------------------|:---------------------------:|
 | Lab04_Lab4-Diabetic retinopathy detection_Submit.ipynb |          |
-| Lab04_Lab4-Diabetic retinopathy detection_Submit.ipynb | 有跑結果圖，但有一個地方沒跑到，小改一下就好         |
+| Lab04_Lab4-Diabetic retinopathy detection_Subemit_ver1_with_result.ipynb | 有跑結果圖，但有一個地方沒跑到，小改一下就好         |
+| Lab04_Lab4-Diabetic retinopathy detection_Submit_batch_siz32&10.ipynb | 有跑結果圖，ResNet batch_size=32, ResNet50 batch_size=10         |
 | dataloader.py                                          |                             |
 | img 檔                                                 |csv from TA                  |
 
