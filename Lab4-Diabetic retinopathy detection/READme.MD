@@ -23,8 +23,8 @@
 
 
 ##  Github Resource
-|  Githun Author                  | Link             |
+|  Github Author                  | Link             |
 | --------------------------------|:-------------------------------------------------------------------------------------:|
-|  chiha8888                      | https://github.com/chiha8888/NCTU_DLP/tree/master/lab3                                |
-|PhoebeWangintw                   | https://github.com/PhoebeWangintw/NCTU_Deep_Learning_2019/tree/master/HW3            |
-|csielee                          | https://github.com/csielee/2019DL/tree/master/lab3        |
+|   chiha8888                      | https://github.com/chiha8888/NCTU_DLP/tree/master/lab3                                |
+|   PhoebeWangintw                   | https://github.com/PhoebeWangintw/NCTU_Deep_Learning_2019/tree/master/HW3            |
+|   csielee                          | https://github.com/csielee/2019DL/tree/master/lab3        |
