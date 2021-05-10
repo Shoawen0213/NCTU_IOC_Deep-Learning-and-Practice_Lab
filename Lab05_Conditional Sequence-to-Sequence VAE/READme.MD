@@ -4,8 +4,9 @@
 
 | File NAME                                              | decription                  |
 | -------------------------------------------------------|:---------------------------:|
-| dataloader.py                                          |                             |
-| img 檔                                                 |csv from TA                  |
+| sample.py                                              | Provide by TA               |
+| readme.txt                                             | ReadMe provide by TA        |
+| train.txt, test.txt                                    | provided by TA        |
 
 
 ## Reference website
