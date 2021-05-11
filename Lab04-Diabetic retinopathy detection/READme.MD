@@ -28,3 +28,11 @@
 |   chiha8888                      | https://github.com/chiha8888/NCTU_DLP/tree/master/lab3                                |
 |   PhoebeWangintw                   | https://github.com/PhoebeWangintw/NCTU_Deep_Learning_2019/tree/master/HW3            |
 |   csielee                          | https://github.com/csielee/2019DL/tree/master/lab3        |
+
+## TA Q&A
+   Q1：解釋所修改的dataloader。
+   Q2：為甚麼要做augmentation?
+   Q3：解釋為甚麼cinfusion matrix某個class爛到爆? (data imbalance)
+   Q4：為甚麼越深層網路效果不一定越好? 為甚麼ResNET50修正了該問題?
+   Q5：Load pretrained model，在FC層做了size的轉換，這邊的weight要重train還是捨棄?
+   
