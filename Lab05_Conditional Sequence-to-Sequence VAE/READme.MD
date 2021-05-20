@@ -7,6 +7,11 @@
 | sample.py                                              | Provide by TA               |
 | readme.txt                                             | ReadMe provide by TA        |
 | train.txt, test.txt                                    | provided by TA        |
+| Lab5_Conditional Sequence-to-Sequence VAE_Fianl version.ipynb | final submit version with comment               |
+| Lab05Conditional Sequence-to-Sequence VAE_TR&KL(sigmoid)_Final Demo Version.ipynb | demo version, higher performance |
+| compare plot.ipynb | plot func using in "cycle"               |
+
+## Experiments Results
 
 
 ## Reference website
