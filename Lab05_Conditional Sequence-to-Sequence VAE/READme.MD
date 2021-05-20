@@ -12,7 +12,9 @@
 | compare plot.ipynb | plot func using in "cycle"               |
 
 ## Experiments Results
-
+![image](https://github.com/Shoawen0213/NCTU_IOC_Deep-Learning-and-Practice_Lab/blob/main/Lab05_Conditional%20Sequence-to-Sequence%20VAE/img/BLEU_score.JPG?raw=true)
+![image](https://github.com/Shoawen0213/NCTU_IOC_Deep-Learning-and-Practice_Lab/blob/main/Lab05_Conditional%20Sequence-to-Sequence%20VAE/img/Gaussian%20score.JPG)
+![image](https://github.com/Shoawen0213/NCTU_IOC_Deep-Learning-and-Practice_Lab/blob/main/Lab05_Conditional%20Sequence-to-Sequence%20VAE/img/CVAE%20with%20cycle%20_final_%E8%A8%AD%E8%A8%88%E7%9A%84Sigmoid%20KL%20weight.png)
 
 ## Reference website
 |  Reference Name                                  | Link             |
