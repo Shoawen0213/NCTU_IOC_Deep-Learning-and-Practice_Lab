@@ -22,7 +22,7 @@
 ![image](https://github.com/Shoawen0213/NCTU_IOC_Deep-Learning-and-Practice_Lab/blob/main/Lab6-DQN%20DDPG/img/DDPG_278.JPG?raw=true)
 
 ## Reference website
-- DQN
+### DQN
 |  Reference Name                                  | Link             |
 | -------------------------------------------------|:-------------------------------------------------------------------------------------:|
 |   [機器學習 ML NOTE] Reinforcement Learning 強化學習(DQN原理) |https://medium.com/%E9%9B%9E%E9%9B%9E%E8%88%87%E5%85%94%E5%85%94%E7%9A%84%E5%B7%A5%E7%A8%8B%E4%B8%96%E7%95%8C/%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92-ml-note-reinforcement-learning-%E5%BC%B7%E5%8C%96%E5%AD%B8%E7%BF%92-dqn-%E5%AF%A6%E4%BD%9Catari-game-7f9185f833b0    |
@@ -31,7 +31,7 @@
 |   Reinforcement Learning 進階篇：Deep Q-Learning | https://medium.com/pyladies-taiwan/reinforcement-learning-%E9%80%B2%E9%9A%8E%E7%AF%87-deep-q-learning-26b10935a745                         |
 
 
-- DDPG
+### DDPG
 |  Reference Name                                  | Link             |
 | -------------------------------------------------|:-------------------------------------------------------------------------------------:|
 |   Deep Deterministic Policy Gradient (DDPG) |https://www.wpgdadatong.com/tw/blog/detail?BID=B2541    |
