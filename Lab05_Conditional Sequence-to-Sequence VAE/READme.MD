@@ -57,6 +57,6 @@
 	torch.Size([5, 3, 20]) torch.Size([2, 3, 20]) torch.Size([2, 3, 20])
 
 ### TA Q&A
-  Q1：VAE由那些LOSS組成?各代別什麼意思?用處?
-  Q2：Reparameraze trick 用處?
-  Q3：VAE跟AE差別?
+  Q1：VAE由那些LOSS組成?各代別什麼意思?用處?  
+  Q2：Reparameraze trick 用處?  
+  Q3：VAE跟AE差別?  
