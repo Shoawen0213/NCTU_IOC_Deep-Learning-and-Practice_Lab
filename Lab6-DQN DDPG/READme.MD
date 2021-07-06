@@ -19,7 +19,7 @@
 ![image](https://github.com/Shoawen0213/NCTU_IOC_Deep-Learning-and-Practice_Lab/blob/main/Lab6-DQN%20DDPG/img/DQN_230.JPG?raw=true)
 
 - DDPG performance： 
-![image](https://github.com/Shoawen0213/NCTU_IOC_Deep-Learning-and-Practice_Lab/blob/main/Lab6-DQN%20DDPG/img/DDPG_278.JPG?raw=true)
+![image](https://github.com/Shoawen0213/NCTU_IOC_Deep-Learning-and-Practice_Lab/blob/main/Lab6-DQN%20DDPG/img/DDPG_278.JPG?raw=true =100*100)
 
 ## Reference website
 ### DQN
